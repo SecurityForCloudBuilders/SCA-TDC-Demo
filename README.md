@@ -76,6 +76,6 @@ Construir um software não é para qualquer um principalmente lidando com vária
 
 Tão breve conseguirmos resolver problemas relacionados a segurança mais estável e menos paradas emergenciais teremos em nossa aplicação.
 
-Mais informações sobre como como desenvolver se forma segurança clica [aqui](https://www.trendmicro.com/en_us/devops.html)
+Mais informações sobre como como desenvolver de forma segurança clica [aqui](https://www.trendmicro.com/en_us/devops.html)
 
 Ficou com dúvida? Só dar um toque :)
