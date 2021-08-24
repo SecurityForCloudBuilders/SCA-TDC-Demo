@@ -61,7 +61,6 @@ Resultado esperado do comando "snyk test"
 
 <img src="CloudOne-OSS-Eventos.jpg" alt="ADD Azure" width="65%"> </img>
 
-CloudOne-OSS-Eventos
 
 2º Importando projetos do Github
 
