@@ -53,6 +53,7 @@ Iremos anaisar dois projetos de formas diferentes :)
 ```
 $ git clone https://github.com/SecurityForCloudBuilders/Protect-a-Vulnerable-WebApplication
 $ cd HeadPage-Demo-App-Protect-RASP
+Na console do Cloud One, clique em Open Source Security by Snyk > Integrations > CLI > Instale os pacotes conforme seu ambiente
 $ snyk test (resultados nos shell)
 $ snyk monitor (link com resultado do scan na console)
 ```
