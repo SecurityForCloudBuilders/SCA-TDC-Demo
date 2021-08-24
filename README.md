@@ -10,7 +10,7 @@ Uma ferramenta SCA permite que você ganhe visibilidade de componentes de códig
 
 Como ele analisa?
 
-O Cloud One Open Source Security by Snyk analisa o arquivo de manifesto da aplicação listando todas as issues e informando o que precisa ser feito para resolver.
+O Cloud One Open Source Security by Snyk analisa o arquivo de manifesto da aplicação listando todas as vulnerabilidades e licenças utilizandas na criação do software informando se existe um risco, qual a criticidade da falha de segurança e se existe um código malicoso que pode explorar a vulnerabilidade.
 
 Por que isso é importante?
 
