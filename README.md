@@ -42,25 +42,25 @@ O Cloud One possui um módulo chamado Open Security by Snyk que usaremos nessa d
 
 # Analisando os projetos
 
-Iremos anaisar dois projetos em linguagens diferentes :)
+Iremos anaisar dois projetos de formas diferentes :)
 
-1º Projeto
+1º Projeto via Snyk cli 
 
-```
-$ git clone https://sa-saopaulo-1.ocir.io
-username: tenancy-namespace>/oracleidentitycloudservice/<username
-password: inserir-token
-Login Succeeded
-```
-
-2º Projeto
+<img src="CloudOne-CLI.jpg" alt="ADD Azure" width="65%"> </img>
 
 ```
-$ docker login https://sa-saopaulo-1.ocir.io
-username: tenancy-namespace>/oracleidentitycloudservice/<username
-password: inserir-token
-Login Succeeded
+$ git clone https://github.com/SecurityForCloudBuilders/Protect-a-Vulnerable-WebApplication
+$ cd HeadPage-Demo-App-Protect-RASP
+$ snyk test (resultados nos shell)
+$ snyk monitor (link com resultado do scan na console)
 ```
+
+2º Integrando o Cloud One Open Source Securiy by Snyk com seu Github
+
+Acess a console do Cloud One, clique em Open Source Security by Snyk 
+<img src="CloudOne-OSS.jpg" alt="ADD Azure" width="65%"> </img>
+
+Selecione Github > forneça acessos a repos publicos/privados ou somente públicos > autorize para acessar o repo > selecione o projeto que deseja analisar :)
 
 # Concluindo
 
