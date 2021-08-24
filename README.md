@@ -38,6 +38,8 @@ O Cloud One possui um módulo chamado Open Security by Snyk que usaremos nessa d
 
 # Acessando a Console
 
+Após criar a conta seja via AWS Marketplace ou da forma tradicional, acesse a connsole com as credenciais criadas por você.
+
 <img src="CloudOne-Console.jpg" alt="ADD Azure" width="65%"> </img>
 
 # Analisando os projetos
