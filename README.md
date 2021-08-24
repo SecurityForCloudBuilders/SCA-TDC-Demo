@@ -55,16 +55,20 @@ $ snyk test (resultados nos shell)
 $ snyk monitor (link com resultado do scan na console)
 ```
 
-2º Integrando o Cloud One Open Source Securiy by Snyk com seu Github
+2º Importando projetos do Github
 
-Acess a console do Cloud One, clique em Open Source Security by Snyk 
+Acess a console do Cloud One, clique em Open Source Security by Snyk
+
 <img src="CloudOne-OSS.jpg" alt="ADD Azure" width="65%"> </img>
 
 Selecione Github > forneça acessos a repos publicos/privados ou somente públicos > autorize para acessar o repo > selecione o projeto que deseja analisar :)
 
 # Concluindo
 
+Construir um software não é para qualquer um principalmente lidando com várias equipes e pessoas com temperamentos diferentes!
 
+Tão breve conseguirmos resolver problemas relacionados a segurança mais estável e menos paradas emergenciais teremos em nossa aplicação.
 
+Mais informações sobre como como desenvolver se forma segurança clica [aqui](https://www.trendmicro.com/en_us/devops.html)
 
-
+Ficou com dúvida? Só dar um toque :)
