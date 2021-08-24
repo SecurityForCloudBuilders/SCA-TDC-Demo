@@ -4,6 +4,8 @@ Utilizando um cão de guarda para farejar vulnerabilidades em dependências open
 
 # Conceitos
 
+<img src="CloudOne-Pipeline.jpg" alt="ADD Azure" width="65%"> </img>
+
 # Pré-requisitos
 
 * Uma conta no [Trend Micro Cloud One](https://cloudone.trendmicro.com/register)
@@ -18,7 +20,29 @@ Utilizando um cão de guarda para farejar vulnerabilidades em dependências open
 
 # Acessando a Console
 
+<img src="CloudOne-Console.jpg" alt="ADD Azure" width="65%"> </img>
+
 # Analisando os projetos
+
+Iremos anaisar dois projetos em linguagens diferentes :)
+
+1º Projeto
+
+```
+$ git clone https://sa-saopaulo-1.ocir.io
+username: tenancy-namespace>/oracleidentitycloudservice/<username
+password: inserir-token
+Login Succeeded
+```
+
+2º Projeto
+
+```
+$ docker login https://sa-saopaulo-1.ocir.io
+username: tenancy-namespace>/oracleidentitycloudservice/<username
+password: inserir-token
+Login Succeeded
+```
 
 # Concluindo
 
